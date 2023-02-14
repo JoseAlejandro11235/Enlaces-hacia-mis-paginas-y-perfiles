@@ -1,7 +1,7 @@
 body{
     width: 920px;
     margin: 0 auto ;
-    background: #EFFFFF;
+    background: #FAFAFA;
 }
 
 .cabecera{
@@ -10,16 +10,16 @@ body{
 }
 
 .cabecera__imagenperfil{
-    width:180px;
-    height: 180px;
+    width:150px;
+    height: 150px;
     border-radius: 50%;
-    margin: 5px 0;
+    margin: 7px 0;
 }
 
 .cabecera__nombre{
     font-family: 'Times New Roman', Times, serif;
     font-weight: 800;
-    margin: 3px 0;
+    margin: 5px 0;
 }
 
 .cabecera__sello{
@@ -31,7 +31,7 @@ body{
     display: flex;
     justify-content: space-between;
     width: 400px;
-    margin: 5px auto;
+    margin: 9px auto;
 }
 
 .cabecera__enlaces_icon_img{
@@ -53,8 +53,8 @@ body{
     }
 
     .cabecera__imagenperfil{
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
     }
 
     .cabecera__enlaces{
@@ -62,7 +62,7 @@ body{
     }
 
     .cabecera__enlaces_icon_img{
-        width: 30px;
-        height: 30px;
+        width: 37px;
+        height: 37px;
     }
   }
