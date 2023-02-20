@@ -1,0 +1,11 @@
+.pie_de_pagina{
+    color:white;
+    font-size: 12px;
+    height: 100px;
+    width: 100%;
+    background: #000000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
