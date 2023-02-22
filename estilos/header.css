@@ -39,10 +39,6 @@ body{
     height: 40px;
 }
 
-.provisional{
-    margin: 450px 0;
-    text-align: center;
-}
 
 
 
@@ -68,7 +64,5 @@ body{
         height: 35px;
     }
 
-    main{
-        width: 100%;
-    }
+
   }
