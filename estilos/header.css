@@ -3,17 +3,17 @@ body{
 }
 
 .cabecera{
-    width: 920px;
     margin: 0 auto ;
+    padding: 20px;
     text-align: center;
-    padding: 20px
+    width: 920px;   
 }
 
 .cabecera__imagenperfil{
-    width:150px;
-    height: 150px;
     border-radius: 50%;
+    height: 150px;
     margin: 7px 0;
+    width:150px;
 }
 
 .cabecera__nombre{
@@ -23,20 +23,21 @@ body{
 }
 
 .cabecera__sello{
+    color: #777777;
     font-family:'Times New Roman', Times, serif; 
-    color: #555555;
 }
 
 .cabecera__enlaces{
     display: flex;
     justify-content: space-between;
-    width: 400px;
     margin: 9px auto;
+    width: 400px;
+    
 }
 
 .cabecera__enlaces_icon_img{
-    width: 40px;
     height: 40px;
+    width: 40px;
 }
 
 
@@ -46,13 +47,11 @@ body{
     
     .cabecera{
         width: 90%;
-        
     }
 
     .cabecera__imagenperfil{
+        height: 120px;    
         width: 120px;
-        height: 120px;
-       
     }
 
     .cabecera__enlaces{
@@ -60,9 +59,9 @@ body{
     }
 
     .cabecera__enlaces_icon_img{
-        width: 35px;
         height: 35px;
-    }
+        width: 35px;
+       }
 
 
   }
